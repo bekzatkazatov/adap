@@ -50,7 +50,7 @@ a {
 }
 
 .box-image {
-    width: 580px;
+    
 }
 
 .title-back {
@@ -223,9 +223,7 @@ color: #000000;
 .title-long-img{
     padding-top: 120px
 }
-.input{
-    height: 150px;
-}
+
 .contacts{
     margin-top: 120px;
     margin-bottom: 122px;
@@ -305,5 +303,14 @@ font-size: 14px;
 line-height: 135%;
 color: #616161;
 }
-
+.download{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+text-transform: uppercase;
+color: #000000;
+}
  
