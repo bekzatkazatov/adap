@@ -151,7 +151,7 @@ a {
     width: 100%;
     object-fit: contain;
 
-
+  
 }
 .wallpaper{
     margin-top: 200px;
@@ -170,7 +170,7 @@ a {
 
 .img-size {
     width: 580px;
-}
+} 
 .container-2{
  max-width: 1110px;
  margin: 0 auto;
@@ -248,8 +248,7 @@ text-decoration-line: underline;
 color: #000000;
 }
 h5
-    {
-        width: 221px;
+    {   
     font-family: 'Montserrat';
         font-style: normal;
         font-weight: 300;
@@ -306,3 +305,5 @@ font-size: 14px;
 line-height: 135%;
 color: #616161;
 }
+
+ 
